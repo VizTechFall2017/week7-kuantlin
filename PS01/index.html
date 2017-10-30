@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Incorporate Final Project</title>
+    <title>U.S. Clean Energy Breakdown by States</title>
 
     <link rel="stylesheet" type="text/css" href="./libraries/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="./style.css">
@@ -18,11 +18,28 @@
 
 <body>
 
-    <input type="range" min="1987" max="2007" value="1" class="slider" id="mySlider" oninput="sliderMoved(value)">
+    <input type="range" min="2006" max="2015" value="1" class="slider" id="mySlider" oninput="sliderMoved(value)">
 
     <br>
 
-    <svg width="800" height="600"></svg>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12 svgBox">
+                        <svg width="100%" height="100%" id="svg1"></svg>
+
+                    </div>
+
+            <div class="col-md-12 svgBox">
+
+                        <svg width="100%" height="100%" id="svg2"></svg>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
 
 </body>
 

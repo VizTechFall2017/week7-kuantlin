@@ -83,7 +83,7 @@ function drawPoints(pointData){
     //update the properties of the remaining bars (as before)
     rects
         .transition()
-        .duration(200)
+        .duration(500)
         .attr('x',function(d){
             return scaleX(d.countryCode);
         })

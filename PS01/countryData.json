@@ -1,0 +1,2837 @@
+[
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 1987,
+    "pc_avgPerCapFoodSupply": 2190,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 9.814926E+07,
+    "lu_peoplePerSqKm": 754.0083
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 1988,
+    "pc_avgPerCapFoodSupply": 2252,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 100779552.0,
+    "lu_peoplePerSqKm": 774.2149
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 1989,
+    "pc_avgPerCapFoodSupply": 2333,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 103400568.0,
+    "lu_peoplePerSqKm": 794.3502
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 1990,
+    "pc_avgPerCapFoodSupply": 2222,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 105983136.0,
+    "lu_peoplePerSqKm": 814.1902
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 1991,
+    "pc_avgPerCapFoodSupply": 2287,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 108509680.0,
+    "lu_peoplePerSqKm": 833.599731
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 1992,
+    "pc_avgPerCapFoodSupply": 2328,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 110987456.0,
+    "lu_peoplePerSqKm": 852.6347
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 1993,
+    "pc_avgPerCapFoodSupply": 2200,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 113442352.0,
+    "lu_peoplePerSqKm": 871.493835
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 1994,
+    "pc_avgPerCapFoodSupply": 2251,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 115913712.0,
+    "lu_peoplePerSqKm": 890.4795
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 1995,
+    "pc_avgPerCapFoodSupply": 2316,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 118427768.0,
+    "lu_peoplePerSqKm": 909.7931
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 1996,
+    "pc_avgPerCapFoodSupply": 2320,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 120987120.0,
+    "lu_peoplePerSqKm": 929.4547
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 1997,
+    "pc_avgPerCapFoodSupply": 2320,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 123574104.0,
+    "lu_peoplePerSqKm": 949.3286
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 1998,
+    "pc_avgPerCapFoodSupply": 2303,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 126169584.0,
+    "lu_peoplePerSqKm": 969.267761
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 1999,
+    "pc_avgPerCapFoodSupply": 2391,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 128746272.0,
+    "lu_peoplePerSqKm": 989.062561
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 2000,
+    "pc_avgPerCapFoodSupply": 2318,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 131280736.0,
+    "lu_peoplePerSqKm": 1008.53296
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 2001,
+    "pc_avgPerCapFoodSupply": 2286,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 133776064.0,
+    "lu_peoplePerSqKm": 1027.70276
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 2002,
+    "pc_avgPerCapFoodSupply": 2284,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 136228448.0,
+    "lu_peoplePerSqKm": 1046.5426
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 2003,
+    "pc_avgPerCapFoodSupply": 2336,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 138600176.0,
+    "lu_peoplePerSqKm": 1064.76282
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 2004,
+    "pc_avgPerCapFoodSupply": 2272,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 140843792.0,
+    "lu_peoplePerSqKm": 1081.9989
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 2005,
+    "pc_avgPerCapFoodSupply": 2269,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 142929984.0,
+    "lu_peoplePerSqKm": 1098.02551
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 2006,
+    "pc_avgPerCapFoodSupply": 2320,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 144839232.0,
+    "lu_peoplePerSqKm": 1112.69287
+  },
+  {
+    "fullname": "Bangladesh",
+    "countryCode": "BD",
+    "year": 2007,
+    "pc_avgPerCapFoodSupply": 2360,
+    "lu_landArea": 130170.0,
+    "lu_totalPop": 146592688.0,
+    "lu_peoplePerSqKm": 1126.16333
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 1987,
+    "pc_avgPerCapFoodSupply": 2627,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 142437472.0,
+    "lu_peoplePerSqKm": 17.0417671
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 1988,
+    "pc_avgPerCapFoodSupply": 2624,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 145150464.0,
+    "lu_peoplePerSqKm": 17.36636
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 1989,
+    "pc_avgPerCapFoodSupply": 2611,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 147801824.0,
+    "lu_peoplePerSqKm": 17.6835785
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 1990,
+    "pc_avgPerCapFoodSupply": 2571,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 150393136.0,
+    "lu_peoplePerSqKm": 17.9936123
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 1991,
+    "pc_avgPerCapFoodSupply": 2630,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 152916848.0,
+    "lu_peoplePerSqKm": 18.2955589
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 1992,
+    "pc_avgPerCapFoodSupply": 2657,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 1.55379E+08,
+    "lu_peoplePerSqKm": 18.5901413
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 1993,
+    "pc_avgPerCapFoodSupply": 2665,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 157812224.0,
+    "lu_peoplePerSqKm": 18.8812618
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 1994,
+    "pc_avgPerCapFoodSupply": 2695,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 160260512.0,
+    "lu_peoplePerSqKm": 19.1741829
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 1995,
+    "pc_avgPerCapFoodSupply": 2703,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 162755056.0,
+    "lu_peoplePerSqKm": 19.472641
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 1996,
+    "pc_avgPerCapFoodSupply": 2716,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 165303152.0,
+    "lu_peoplePerSqKm": 19.777504
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 1997,
+    "pc_avgPerCapFoodSupply": 2724,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 167893840.0,
+    "lu_peoplePerSqKm": 20.0874653
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 1998,
+    "pc_avgPerCapFoodSupply": 2723,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 170516480.0,
+    "lu_peoplePerSqKm": 20.401247
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 1999,
+    "pc_avgPerCapFoodSupply": 2750,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 173153072.0,
+    "lu_peoplePerSqKm": 20.7167
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 2000,
+    "pc_avgPerCapFoodSupply": 2775,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 175786448.0,
+    "lu_peoplePerSqKm": 21.0317669
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 2001,
+    "pc_avgPerCapFoodSupply": 2771,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 1.784194E+08,
+    "lu_peoplePerSqKm": 21.3467827
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 2002,
+    "pc_avgPerCapFoodSupply": 2751,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 1.810456E+08,
+    "lu_peoplePerSqKm": 21.6609917
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 2003,
+    "pc_avgPerCapFoodSupply": 2844,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 183627344.0,
+    "lu_peoplePerSqKm": 21.9698811
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 2004,
+    "pc_avgPerCapFoodSupply": 2856,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 186116368.0,
+    "lu_peoplePerSqKm": 22.2676773
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 2005,
+    "pc_avgPerCapFoodSupply": 2868,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 188479232.0,
+    "lu_peoplePerSqKm": 22.55038
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 2006,
+    "pc_avgPerCapFoodSupply": 2868,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 190698240.0,
+    "lu_peoplePerSqKm": 22.81587
+  },
+  {
+    "fullname": "Brazil",
+    "countryCode": "BR",
+    "year": 2007,
+    "pc_avgPerCapFoodSupply": 2882,
+    "lu_landArea": 8358140.0,
+    "lu_totalPop": 192784528.0,
+    "lu_peoplePerSqKm": 23.0654812
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 1987,
+    "pc_avgPerCapFoodSupply": 2566,
+    "lu_landArea": 9388250.0,
+    "lu_totalPop": 1.084035E+09,
+    "lu_peoplePerSqKm": 115.4672
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 1988,
+    "pc_avgPerCapFoodSupply": 2554,
+    "lu_landArea": 9388250.0,
+    "lu_totalPop": 1.10163E+09,
+    "lu_peoplePerSqKm": 117.341354
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 1989,
+    "pc_avgPerCapFoodSupply": 2554,
+    "lu_landArea": 9388250.0,
+    "lu_totalPop": 1.11865E+09,
+    "lu_peoplePerSqKm": 119.154259
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 1990,
+    "pc_avgPerCapFoodSupply": 2638,
+    "lu_landArea": 9388250.0,
+    "lu_totalPop": 1.135185E+09,
+    "lu_peoplePerSqKm": 120.915512
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 1991,
+    "pc_avgPerCapFoodSupply": 2579,
+    "lu_landArea": 9388250.0,
+    "lu_totalPop": 1.15078E+09,
+    "lu_peoplePerSqKm": 122.57663
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 1992,
+    "pc_avgPerCapFoodSupply": 2604,
+    "lu_landArea": 9388250.0,
+    "lu_totalPop": 1.16497E+09,
+    "lu_peoplePerSqKm": 124.088089
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 1993,
+    "pc_avgPerCapFoodSupply": 2682,
+    "lu_landArea": 9388250.0,
+    "lu_totalPop": 1.17844E+09,
+    "lu_peoplePerSqKm": 125.522858
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 1994,
+    "pc_avgPerCapFoodSupply": 2744,
+    "lu_landArea": 9388250.0,
+    "lu_totalPop": 1.191835E+09,
+    "lu_peoplePerSqKm": 126.949646
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 1995,
+    "pc_avgPerCapFoodSupply": 2816,
+    "lu_landArea": 9388240.0,
+    "lu_totalPop": 1.204855E+09,
+    "lu_peoplePerSqKm": 128.336624
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 1996,
+    "pc_avgPerCapFoodSupply": 2813,
+    "lu_landArea": 9388230.0,
+    "lu_totalPop": 1.21755E+09,
+    "lu_peoplePerSqKm": 129.68898
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 1997,
+    "pc_avgPerCapFoodSupply": 2859,
+    "lu_landArea": 9388230.0,
+    "lu_totalPop": 1.230075E+09,
+    "lu_peoplePerSqKm": 131.0231
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 1998,
+    "pc_avgPerCapFoodSupply": 2884,
+    "lu_landArea": 9388230.0,
+    "lu_totalPop": 1.241935E+09,
+    "lu_peoplePerSqKm": 132.286377
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 1999,
+    "pc_avgPerCapFoodSupply": 2873,
+    "lu_landArea": 9388230.0,
+    "lu_totalPop": 1.252735E+09,
+    "lu_peoplePerSqKm": 133.436752
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 2000,
+    "pc_avgPerCapFoodSupply": 2889,
+    "lu_landArea": 9388220.0,
+    "lu_totalPop": 1.262645E+09,
+    "lu_peoplePerSqKm": 134.492477
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 2001,
+    "pc_avgPerCapFoodSupply": 2895,
+    "lu_landArea": 9388214.0,
+    "lu_totalPop": 1.27185E+09,
+    "lu_peoplePerSqKm": 135.473053
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 2002,
+    "pc_avgPerCapFoodSupply": 2900,
+    "lu_landArea": 9388213.0,
+    "lu_totalPop": 1.2804E+09,
+    "lu_peoplePerSqKm": 136.383789
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 2003,
+    "pc_avgPerCapFoodSupply": 2887,
+    "lu_landArea": 9388213.0,
+    "lu_totalPop": 1.2884E+09,
+    "lu_peoplePerSqKm": 137.235916
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 2004,
+    "pc_avgPerCapFoodSupply": 2908,
+    "lu_landArea": 9388212.0,
+    "lu_totalPop": 1.296075E+09,
+    "lu_peoplePerSqKm": 138.053452
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 2005,
+    "pc_avgPerCapFoodSupply": 2940,
+    "lu_landArea": 9388212.0,
+    "lu_totalPop": 1.30372E+09,
+    "lu_peoplePerSqKm": 138.867752
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 2006,
+    "pc_avgPerCapFoodSupply": 2930,
+    "lu_landArea": 9388211.0,
+    "lu_totalPop": 1.31102E+09,
+    "lu_peoplePerSqKm": 139.645355
+  },
+  {
+    "fullname": "China",
+    "countryCode": "CN",
+    "year": 2007,
+    "pc_avgPerCapFoodSupply": 2941,
+    "lu_landArea": 9388211.0,
+    "lu_totalPop": 1.317885E+09,
+    "lu_peoplePerSqKm": 140.376587
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 1987,
+    "pc_avgPerCapFoodSupply": 1938,
+    "lu_landArea": 1101000.0,
+    "lu_totalPop": 4.347022E+07,
+    "lu_peoplePerSqKm": 39.48249
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 1988,
+    "pc_avgPerCapFoodSupply": 1946,
+    "lu_landArea": 1101000.0,
+    "lu_totalPop": 44908704.0,
+    "lu_peoplePerSqKm": 40.7890129
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 1989,
+    "pc_avgPerCapFoodSupply": 1926,
+    "lu_landArea": 1101000.0,
+    "lu_totalPop": 46433604.0,
+    "lu_peoplePerSqKm": 42.1740265
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 1990,
+    "pc_avgPerCapFoodSupply": 1892,
+    "lu_landArea": 1101000.0,
+    "lu_totalPop": 48057096.0,
+    "lu_peoplePerSqKm": 43.64859
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 1991,
+    "pc_avgPerCapFoodSupply": 1885,
+    "lu_landArea": 1101000.0,
+    "lu_totalPop": 49784988.0,
+    "lu_peoplePerSqKm": 45.21797
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 1992,
+    "pc_avgPerCapFoodSupply": 1847,
+    "lu_landArea": 1101000.0,
+    "lu_totalPop": 51602776.0,
+    "lu_peoplePerSqKm": 46.8690071
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 1993,
+    "pc_avgPerCapFoodSupply": 1834,
+    "lu_landArea": 1000000.0,
+    "lu_totalPop": 53477944.0,
+    "lu_peoplePerSqKm": 53.4779434
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 1994,
+    "pc_avgPerCapFoodSupply": 1854,
+    "lu_landArea": 1000000.0,
+    "lu_totalPop": 55366516.0,
+    "lu_peoplePerSqKm": 55.3665161
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 1995,
+    "pc_avgPerCapFoodSupply": 1872,
+    "lu_landArea": 1000000.0,
+    "lu_totalPop": 57237224.0,
+    "lu_peoplePerSqKm": 57.2372246
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 1996,
+    "pc_avgPerCapFoodSupply": 1882,
+    "lu_landArea": 1000000.0,
+    "lu_totalPop": 59076416.0,
+    "lu_peoplePerSqKm": 59.076416
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 1997,
+    "pc_avgPerCapFoodSupply": 1885,
+    "lu_landArea": 1000000.0,
+    "lu_totalPop": 60893264.0,
+    "lu_peoplePerSqKm": 60.8932648
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 1998,
+    "pc_avgPerCapFoodSupply": 1911,
+    "lu_landArea": 1000000.0,
+    "lu_totalPop": 62707548.0,
+    "lu_peoplePerSqKm": 62.7075462
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 1999,
+    "pc_avgPerCapFoodSupply": 1925,
+    "lu_landArea": 1000000.0,
+    "lu_totalPop": 6.455016E+07,
+    "lu_peoplePerSqKm": 64.55016
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 2000,
+    "pc_avgPerCapFoodSupply": 1938,
+    "lu_landArea": 1000000.0,
+    "lu_totalPop": 66443604.0,
+    "lu_peoplePerSqKm": 66.4436
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 2001,
+    "pc_avgPerCapFoodSupply": 1952,
+    "lu_landArea": 1000000.0,
+    "lu_totalPop": 6.839313E+07,
+    "lu_peoplePerSqKm": 68.39313
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 2002,
+    "pc_avgPerCapFoodSupply": 1964,
+    "lu_landArea": 1000000.0,
+    "lu_totalPop": 7.039117E+07,
+    "lu_peoplePerSqKm": 70.39117
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 2003,
+    "pc_avgPerCapFoodSupply": 1963,
+    "lu_landArea": 1000000.0,
+    "lu_totalPop": 7.243229E+07,
+    "lu_peoplePerSqKm": 72.43229
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 2004,
+    "pc_avgPerCapFoodSupply": 1977,
+    "lu_landArea": 1000000.0,
+    "lu_totalPop": 7.450698E+07,
+    "lu_peoplePerSqKm": 74.50697
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 2005,
+    "pc_avgPerCapFoodSupply": 2002,
+    "lu_landArea": 1000000.0,
+    "lu_totalPop": 7.660843E+07,
+    "lu_peoplePerSqKm": 76.60843
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 2006,
+    "pc_avgPerCapFoodSupply": 2026,
+    "lu_landArea": 1000000.0,
+    "lu_totalPop": 7.873567E+07,
+    "lu_peoplePerSqKm": 78.73567
+  },
+  {
+    "fullname": "Ethiopia",
+    "countryCode": "ET",
+    "year": 2007,
+    "pc_avgPerCapFoodSupply": 2036,
+    "lu_landArea": 1000000.0,
+    "lu_totalPop": 8.089197E+07,
+    "lu_peoplePerSqKm": 80.89197
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 1987,
+    "pc_avgPerCapFoodSupply": 3423,
+    "lu_landArea": 349130.0,
+    "lu_totalPop": 7.783992E+07,
+    "lu_peoplePerSqKm": 222.953964
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 1988,
+    "pc_avgPerCapFoodSupply": 3464,
+    "lu_landArea": 349130.0,
+    "lu_totalPop": 78144616.0,
+    "lu_peoplePerSqKm": 223.8267
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 1989,
+    "pc_avgPerCapFoodSupply": 3426,
+    "lu_landArea": 349130.0,
+    "lu_totalPop": 7.875128E+07,
+    "lu_peoplePerSqKm": 225.564346
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 1990,
+    "pc_avgPerCapFoodSupply": 3354,
+    "lu_landArea": 349130.0,
+    "lu_totalPop": 7.943303E+07,
+    "lu_peoplePerSqKm": 227.517059
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 1991,
+    "pc_avgPerCapFoodSupply": 3414,
+    "lu_landArea": 349130.0,
+    "lu_totalPop": 80013896.0,
+    "lu_peoplePerSqKm": 229.180817
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 1992,
+    "pc_avgPerCapFoodSupply": 3444,
+    "lu_landArea": 349130.0,
+    "lu_totalPop": 8.06246E+07,
+    "lu_peoplePerSqKm": 230.930023
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 1993,
+    "pc_avgPerCapFoodSupply": 3362,
+    "lu_landArea": 349120.0,
+    "lu_totalPop": 8.115636E+07,
+    "lu_peoplePerSqKm": 232.459778
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 1994,
+    "pc_avgPerCapFoodSupply": 3347,
+    "lu_landArea": 349110.0,
+    "lu_totalPop": 8.143835E+07,
+    "lu_peoplePerSqKm": 233.274185
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 1995,
+    "pc_avgPerCapFoodSupply": 3380,
+    "lu_landArea": 349100.0,
+    "lu_totalPop": 8.167805E+07,
+    "lu_peoplePerSqKm": 233.967484
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 1996,
+    "pc_avgPerCapFoodSupply": 3412,
+    "lu_landArea": 349090.0,
+    "lu_totalPop": 8.191483E+07,
+    "lu_peoplePerSqKm": 234.652481
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 1997,
+    "pc_avgPerCapFoodSupply": 3362,
+    "lu_landArea": 349050.0,
+    "lu_totalPop": 8.203477E+07,
+    "lu_peoplePerSqKm": 235.022964
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 1998,
+    "pc_avgPerCapFoodSupply": 3434,
+    "lu_landArea": 349020.0,
+    "lu_totalPop": 8.204719E+07,
+    "lu_peoplePerSqKm": 235.078766
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 1999,
+    "pc_avgPerCapFoodSupply": 3429,
+    "lu_landArea": 348980.0,
+    "lu_totalPop": 8.210024E+07,
+    "lu_peoplePerSqKm": 235.257721
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 2000,
+    "pc_avgPerCapFoodSupply": 3463,
+    "lu_landArea": 348950.0,
+    "lu_totalPop": 8.22115E+07,
+    "lu_peoplePerSqKm": 235.5968
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 2001,
+    "pc_avgPerCapFoodSupply": 3491,
+    "lu_landArea": 348900.0,
+    "lu_totalPop": 8.234993E+07,
+    "lu_peoplePerSqKm": 236.027313
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 2002,
+    "pc_avgPerCapFoodSupply": 3517,
+    "lu_landArea": 348860.0,
+    "lu_totalPop": 8.24885E+07,
+    "lu_peoplePerSqKm": 236.451569
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 2003,
+    "pc_avgPerCapFoodSupply": 3475,
+    "lu_landArea": 348810.0,
+    "lu_totalPop": 8.253418E+07,
+    "lu_peoplePerSqKm": 236.616425
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 2004,
+    "pc_avgPerCapFoodSupply": 3471,
+    "lu_landArea": 348770.0,
+    "lu_totalPop": 8.251626E+07,
+    "lu_peoplePerSqKm": 236.592178
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 2005,
+    "pc_avgPerCapFoodSupply": 3484,
+    "lu_landArea": 348760.0,
+    "lu_totalPop": 8.246942E+07,
+    "lu_peoplePerSqKm": 236.464691
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 2006,
+    "pc_avgPerCapFoodSupply": 3471,
+    "lu_landArea": 348720.0,
+    "lu_totalPop": 8.237645E+07,
+    "lu_peoplePerSqKm": 236.225189
+  },
+  {
+    "fullname": "Germany",
+    "countryCode": "DE",
+    "year": 2007,
+    "pc_avgPerCapFoodSupply": 3492,
+    "lu_landArea": 348670.0,
+    "lu_totalPop": 8.226637E+07,
+    "lu_peoplePerSqKm": 235.943344
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 1987,
+    "pc_avgPerCapFoodSupply": 2190,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 817232256.0,
+    "lu_peoplePerSqKm": 274.867157
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 1988,
+    "pc_avgPerCapFoodSupply": 2252,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 8.349444E+08,
+    "lu_peoplePerSqKm": 280.824432
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 1989,
+    "pc_avgPerCapFoodSupply": 2333,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 8.527361E+08,
+    "lu_peoplePerSqKm": 286.8085
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 1990,
+    "pc_avgPerCapFoodSupply": 2222,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 8.706018E+08,
+    "lu_peoplePerSqKm": 292.8174
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 1991,
+    "pc_avgPerCapFoodSupply": 2287,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 888513856.0,
+    "lu_peoplePerSqKm": 298.841949
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 1992,
+    "pc_avgPerCapFoodSupply": 2328,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 9.064614E+08,
+    "lu_peoplePerSqKm": 304.8784
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 1993,
+    "pc_avgPerCapFoodSupply": 2200,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 924475648.0,
+    "lu_peoplePerSqKm": 310.9373
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 1994,
+    "pc_avgPerCapFoodSupply": 2251,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 9.426042E+08,
+    "lu_peoplePerSqKm": 317.034637
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 1995,
+    "pc_avgPerCapFoodSupply": 2316,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 9.60875E+08,
+    "lu_peoplePerSqKm": 323.1798
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 1996,
+    "pc_avgPerCapFoodSupply": 2320,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 979290432.0,
+    "lu_peoplePerSqKm": 329.373657
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 1997,
+    "pc_avgPerCapFoodSupply": 2320,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 9.978173E+08,
+    "lu_peoplePerSqKm": 335.60495
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 1998,
+    "pc_avgPerCapFoodSupply": 2303,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 1.01640288E+09,
+    "lu_peoplePerSqKm": 341.856018
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 1999,
+    "pc_avgPerCapFoodSupply": 2391,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 1.03497664E+09,
+    "lu_peoplePerSqKm": 348.1031
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 2000,
+    "pc_avgPerCapFoodSupply": 2318,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 1.05348109E+09,
+    "lu_peoplePerSqKm": 354.326874
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 2001,
+    "pc_avgPerCapFoodSupply": 2286,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 1.07188819E+09,
+    "lu_peoplePerSqKm": 360.517883
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 2002,
+    "pc_avgPerCapFoodSupply": 2284,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 1.09018931E+09,
+    "lu_peoplePerSqKm": 366.673279
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 2003,
+    "pc_avgPerCapFoodSupply": 2336,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 1.10836954E+09,
+    "lu_peoplePerSqKm": 372.788
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 2004,
+    "pc_avgPerCapFoodSupply": 2272,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 1.12641933E+09,
+    "lu_peoplePerSqKm": 378.858856
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 2005,
+    "pc_avgPerCapFoodSupply": 2269,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 1.14432627E+09,
+    "lu_peoplePerSqKm": 384.881653
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 2006,
+    "pc_avgPerCapFoodSupply": 2320,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 1.16208832E+09,
+    "lu_peoplePerSqKm": 390.8557
+  },
+  {
+    "fullname": "India",
+    "countryCode": "IN",
+    "year": 2007,
+    "pc_avgPerCapFoodSupply": 2360,
+    "lu_landArea": 2973190.0,
+    "lu_totalPop": 1.17968563E+09,
+    "lu_peoplePerSqKm": 396.774384
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 1987,
+    "pc_avgPerCapFoodSupply": 2292,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 171728912.0,
+    "lu_peoplePerSqKm": 94.79562
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 1988,
+    "pc_avgPerCapFoodSupply": 2342,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 175000912.0,
+    "lu_peoplePerSqKm": 96.60179
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 1989,
+    "pc_avgPerCapFoodSupply": 2340,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 178233232.0,
+    "lu_peoplePerSqKm": 98.386055
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 1990,
+    "pc_avgPerCapFoodSupply": 2228,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 181436816.0,
+    "lu_peoplePerSqKm": 100.154457
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 1991,
+    "pc_avgPerCapFoodSupply": 2231,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 184614736.0,
+    "lu_peoplePerSqKm": 101.9087
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 1992,
+    "pc_avgPerCapFoodSupply": 2280,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 1.877621E+08,
+    "lu_peoplePerSqKm": 103.646065
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 1993,
+    "pc_avgPerCapFoodSupply": 2323,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 190873248.0,
+    "lu_peoplePerSqKm": 105.363441
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 1994,
+    "pc_avgPerCapFoodSupply": 2365,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 1.939399E+08,
+    "lu_peoplePerSqKm": 107.056259
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 1995,
+    "pc_avgPerCapFoodSupply": 2416,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 196957840.0,
+    "lu_peoplePerSqKm": 108.722183
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 1996,
+    "pc_avgPerCapFoodSupply": 2429,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 199926608.0,
+    "lu_peoplePerSqKm": 110.360962
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 1997,
+    "pc_avgPerCapFoodSupply": 2400,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 202853856.0,
+    "lu_peoplePerSqKm": 111.976822
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 1998,
+    "pc_avgPerCapFoodSupply": 2408,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 205753488.0,
+    "lu_peoplePerSqKm": 113.577446
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 1999,
+    "pc_avgPerCapFoodSupply": 2422,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 208644080.0,
+    "lu_peoplePerSqKm": 115.173073
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 2000,
+    "pc_avgPerCapFoodSupply": 2434,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 211540432.0,
+    "lu_peoplePerSqKm": 116.771881
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 2001,
+    "pc_avgPerCapFoodSupply": 2426,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 2.144483E+08,
+    "lu_peoplePerSqKm": 118.377045
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 2002,
+    "pc_avgPerCapFoodSupply": 2456,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 217369088.0,
+    "lu_peoplePerSqKm": 119.989342
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 2003,
+    "pc_avgPerCapFoodSupply": 2474,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 2.203078E+08,
+    "lu_peoplePerSqKm": 121.611534
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 2004,
+    "pc_avgPerCapFoodSupply": 2514,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 2.232686E+08,
+    "lu_peoplePerSqKm": 123.245918
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 2005,
+    "pc_avgPerCapFoodSupply": 2531,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 2.262547E+08,
+    "lu_peoplePerSqKm": 124.894264
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 2006,
+    "pc_avgPerCapFoodSupply": 2552,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 229263984.0,
+    "lu_peoplePerSqKm": 126.555412
+  },
+  {
+    "fullname": "Indonesia",
+    "countryCode": "ID",
+    "year": 2007,
+    "pc_avgPerCapFoodSupply": 2571,
+    "lu_landArea": 1811570.0,
+    "lu_totalPop": 232296832.0,
+    "lu_peoplePerSqKm": 128.229568
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 1987,
+    "pc_avgPerCapFoodSupply": 2566,
+    "lu_landArea": 364600.0,
+    "lu_totalPop": 1.22091E+08,
+    "lu_peoplePerSqKm": 334.862854
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 1988,
+    "pc_avgPerCapFoodSupply": 2554,
+    "lu_landArea": 364600.0,
+    "lu_totalPop": 1.22613E+08,
+    "lu_peoplePerSqKm": 336.294556
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 1989,
+    "pc_avgPerCapFoodSupply": 2554,
+    "lu_landArea": 364600.0,
+    "lu_totalPop": 1.23116E+08,
+    "lu_peoplePerSqKm": 337.674164
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 1990,
+    "pc_avgPerCapFoodSupply": 2638,
+    "lu_landArea": 364600.0,
+    "lu_totalPop": 1.23537E+08,
+    "lu_peoplePerSqKm": 338.828857
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 1991,
+    "pc_avgPerCapFoodSupply": 2579,
+    "lu_landArea": 364600.0,
+    "lu_totalPop": 1.23921E+08,
+    "lu_peoplePerSqKm": 339.88205
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 1992,
+    "pc_avgPerCapFoodSupply": 2604,
+    "lu_landArea": 364600.0,
+    "lu_totalPop": 1.24229E+08,
+    "lu_peoplePerSqKm": 340.726837
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 1993,
+    "pc_avgPerCapFoodSupply": 2682,
+    "lu_landArea": 364600.0,
+    "lu_totalPop": 1.24536E+08,
+    "lu_peoplePerSqKm": 341.568848
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 1994,
+    "pc_avgPerCapFoodSupply": 2744,
+    "lu_landArea": 364600.0,
+    "lu_totalPop": 1.24961E+08,
+    "lu_peoplePerSqKm": 342.7345
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 1995,
+    "pc_avgPerCapFoodSupply": 2816,
+    "lu_landArea": 364600.0,
+    "lu_totalPop": 1.25439E+08,
+    "lu_peoplePerSqKm": 344.045532
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 1996,
+    "pc_avgPerCapFoodSupply": 2813,
+    "lu_landArea": 364500.0,
+    "lu_totalPop": 1.25757E+08,
+    "lu_peoplePerSqKm": 345.01236
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 1997,
+    "pc_avgPerCapFoodSupply": 2859,
+    "lu_landArea": 364500.0,
+    "lu_totalPop": 1.26057E+08,
+    "lu_peoplePerSqKm": 345.8354
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 1998,
+    "pc_avgPerCapFoodSupply": 2884,
+    "lu_landArea": 364500.0,
+    "lu_totalPop": 1.264E+08,
+    "lu_peoplePerSqKm": 346.7764
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 1999,
+    "pc_avgPerCapFoodSupply": 2873,
+    "lu_landArea": 364500.0,
+    "lu_totalPop": 1.26631E+08,
+    "lu_peoplePerSqKm": 347.410156
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 2000,
+    "pc_avgPerCapFoodSupply": 2889,
+    "lu_landArea": 364500.0,
+    "lu_totalPop": 1.26843E+08,
+    "lu_peoplePerSqKm": 347.99176
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 2001,
+    "pc_avgPerCapFoodSupply": 2895,
+    "lu_landArea": 364500.0,
+    "lu_totalPop": 1.27149E+08,
+    "lu_peoplePerSqKm": 348.831268
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 2002,
+    "pc_avgPerCapFoodSupply": 2900,
+    "lu_landArea": 364500.0,
+    "lu_totalPop": 1.27445E+08,
+    "lu_peoplePerSqKm": 349.643341
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 2003,
+    "pc_avgPerCapFoodSupply": 2887,
+    "lu_landArea": 364500.0,
+    "lu_totalPop": 1.27718E+08,
+    "lu_peoplePerSqKm": 350.3923
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 2004,
+    "pc_avgPerCapFoodSupply": 2908,
+    "lu_landArea": 364500.0,
+    "lu_totalPop": 1.27761E+08,
+    "lu_peoplePerSqKm": 350.510284
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 2005,
+    "pc_avgPerCapFoodSupply": 2940,
+    "lu_landArea": 364500.0,
+    "lu_totalPop": 1.27773E+08,
+    "lu_peoplePerSqKm": 350.5432
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 2006,
+    "pc_avgPerCapFoodSupply": 2930,
+    "lu_landArea": 364500.0,
+    "lu_totalPop": 1.27854E+08,
+    "lu_peoplePerSqKm": 350.765442
+  },
+  {
+    "fullname": "Japan",
+    "countryCode": "JP",
+    "year": 2007,
+    "pc_avgPerCapFoodSupply": 2941,
+    "lu_landArea": 364500.0,
+    "lu_totalPop": 1.28001E+08,
+    "lu_peoplePerSqKm": 351.168732
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 1987,
+    "pc_avgPerCapFoodSupply": 2834,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 80571064.0,
+    "lu_peoplePerSqKm": 41.4470863
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 1988,
+    "pc_avgPerCapFoodSupply": 2887,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 8.222315E+07,
+    "lu_peoplePerSqKm": 42.2969475
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 1989,
+    "pc_avgPerCapFoodSupply": 2861,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 8.390164E+07,
+    "lu_peoplePerSqKm": 43.16039
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 1990,
+    "pc_avgPerCapFoodSupply": 2863,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 8.560941E+07,
+    "lu_peoplePerSqKm": 44.0388947
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 1991,
+    "pc_avgPerCapFoodSupply": 2883,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 8.734721E+07,
+    "lu_peoplePerSqKm": 44.9328461
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 1992,
+    "pc_avgPerCapFoodSupply": 2888,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 8.911004E+07,
+    "lu_peoplePerSqKm": 45.8396759
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 1993,
+    "pc_avgPerCapFoodSupply": 2904,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 90887096.0,
+    "lu_peoplePerSqKm": 46.7538223
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 1994,
+    "pc_avgPerCapFoodSupply": 2902,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 9.266366E+07,
+    "lu_peoplePerSqKm": 47.66772
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 1995,
+    "pc_avgPerCapFoodSupply": 2880,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 9.442694E+07,
+    "lu_peoplePerSqKm": 48.57478
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 1996,
+    "pc_avgPerCapFoodSupply": 2898,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 9.618171E+07,
+    "lu_peoplePerSqKm": 49.4774628
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 1997,
+    "pc_avgPerCapFoodSupply": 2874,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 9.792582E+07,
+    "lu_peoplePerSqKm": 50.37466
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 1998,
+    "pc_avgPerCapFoodSupply": 2880,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 99632296.0,
+    "lu_peoplePerSqKm": 51.2525
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 1999,
+    "pc_avgPerCapFoodSupply": 2885,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 101266568.0,
+    "lu_peoplePerSqKm": 52.0931969
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 2000,
+    "pc_avgPerCapFoodSupply": 2930,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 102808592.0,
+    "lu_peoplePerSqKm": 52.88644
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 2001,
+    "pc_avgPerCapFoodSupply": 2993,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 104239560.0,
+    "lu_peoplePerSqKm": 53.62255
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 2002,
+    "pc_avgPerCapFoodSupply": 3014,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 105578296.0,
+    "lu_peoplePerSqKm": 54.31122
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 2003,
+    "pc_avgPerCapFoodSupply": 3012,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 106888416.0,
+    "lu_peoplePerSqKm": 54.98517
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 2004,
+    "pc_avgPerCapFoodSupply": 3011,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 108257824.0,
+    "lu_peoplePerSqKm": 55.6896133
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 2005,
+    "pc_avgPerCapFoodSupply": 2993,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 1.097479E+08,
+    "lu_peoplePerSqKm": 56.4561348
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 2006,
+    "pc_avgPerCapFoodSupply": 3009,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 111382856.0,
+    "lu_peoplePerSqKm": 57.29718
+  },
+  {
+    "fullname": "Mexico",
+    "countryCode": "MX",
+    "year": 2007,
+    "pc_avgPerCapFoodSupply": 3023,
+    "lu_landArea": 1943950.0,
+    "lu_totalPop": 113139376.0,
+    "lu_peoplePerSqKm": 58.2007637
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 1987,
+    "pc_avgPerCapFoodSupply": 2036,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 8.841292E+07,
+    "lu_peoplePerSqKm": 97.07491
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 1988,
+    "pc_avgPerCapFoodSupply": 2077,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 9.077362E+07,
+    "lu_peoplePerSqKm": 99.66689
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 1989,
+    "pc_avgPerCapFoodSupply": 2129,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 9.317975E+07,
+    "lu_peoplePerSqKm": 102.308762
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 1990,
+    "pc_avgPerCapFoodSupply": 2171,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 9.561734E+07,
+    "lu_peoplePerSqKm": 104.985168
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 1991,
+    "pc_avgPerCapFoodSupply": 2271,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 9.808544E+07,
+    "lu_peoplePerSqKm": 107.695068
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 1992,
+    "pc_avgPerCapFoodSupply": 2324,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 100592456.0,
+    "lu_peoplePerSqKm": 110.447708
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 1993,
+    "pc_avgPerCapFoodSupply": 2384,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 103145096.0,
+    "lu_peoplePerSqKm": 113.250435
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 1994,
+    "pc_avgPerCapFoodSupply": 2375,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 105753088.0,
+    "lu_peoplePerSqKm": 116.113937
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 1995,
+    "pc_avgPerCapFoodSupply": 2411,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 108424824.0,
+    "lu_peoplePerSqKm": 119.047424
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 1996,
+    "pc_avgPerCapFoodSupply": 2405,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 111164648.0,
+    "lu_peoplePerSqKm": 122.055679
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 1997,
+    "pc_avgPerCapFoodSupply": 2427,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 113975056.0,
+    "lu_peoplePerSqKm": 125.141426
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 1998,
+    "pc_avgPerCapFoodSupply": 2450,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 116860688.0,
+    "lu_peoplePerSqKm": 128.309769
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 1999,
+    "pc_avgPerCapFoodSupply": 2471,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 119826232.0,
+    "lu_peoplePerSqKm": 131.565857
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 2000,
+    "pc_avgPerCapFoodSupply": 2450,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 122876720.0,
+    "lu_peoplePerSqKm": 134.9152
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 2001,
+    "pc_avgPerCapFoodSupply": 2447,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 126014936.0,
+    "lu_peoplePerSqKm": 138.36087
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 2002,
+    "pc_avgPerCapFoodSupply": 2452,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 129246280.0,
+    "lu_peoplePerSqKm": 141.9088
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 2003,
+    "pc_avgPerCapFoodSupply": 2480,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 132581488.0,
+    "lu_peoplePerSqKm": 145.57077
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 2004,
+    "pc_avgPerCapFoodSupply": 2510,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 136033328.0,
+    "lu_peoplePerSqKm": 149.3608
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 2005,
+    "pc_avgPerCapFoodSupply": 2550,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 1.396113E+08,
+    "lu_peoplePerSqKm": 153.2893
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 2006,
+    "pc_avgPerCapFoodSupply": 2595,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 143318016.0,
+    "lu_peoplePerSqKm": 157.359177
+  },
+  {
+    "fullname": "Nigeria",
+    "countryCode": "NG",
+    "year": 2007,
+    "pc_avgPerCapFoodSupply": 2622,
+    "lu_landArea": 910770.0,
+    "lu_totalPop": 1.471525E+08,
+    "lu_peoplePerSqKm": 161.569321
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 1987,
+    "pc_avgPerCapFoodSupply": 2190,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 9.830165E+07,
+    "lu_peoplePerSqKm": 127.518745
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 1988,
+    "pc_avgPerCapFoodSupply": 2252,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 101420792.0,
+    "lu_peoplePerSqKm": 131.564957
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 1989,
+    "pc_avgPerCapFoodSupply": 2333,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 104530688.0,
+    "lu_peoplePerSqKm": 135.599167
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 1990,
+    "pc_avgPerCapFoodSupply": 2222,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 107607640.0,
+    "lu_peoplePerSqKm": 139.590652
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 1991,
+    "pc_avgPerCapFoodSupply": 2287,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 1.106344E+08,
+    "lu_peoplePerSqKm": 143.517014
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 1992,
+    "pc_avgPerCapFoodSupply": 2328,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 113616168.0,
+    "lu_peoplePerSqKm": 147.385025
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 1993,
+    "pc_avgPerCapFoodSupply": 2200,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 116579608.0,
+    "lu_peoplePerSqKm": 151.229248
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 1994,
+    "pc_avgPerCapFoodSupply": 2251,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 119564928.0,
+    "lu_peoplePerSqKm": 155.101868
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 1995,
+    "pc_avgPerCapFoodSupply": 2316,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 122599752.0,
+    "lu_peoplePerSqKm": 159.0387
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 1996,
+    "pc_avgPerCapFoodSupply": 2320,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 125697648.0,
+    "lu_peoplePerSqKm": 163.057343
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 1997,
+    "pc_avgPerCapFoodSupply": 2320,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 1.288457E+08,
+    "lu_peoplePerSqKm": 167.141052
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 1998,
+    "pc_avgPerCapFoodSupply": 2303,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 132013680.0,
+    "lu_peoplePerSqKm": 171.250626
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 1999,
+    "pc_avgPerCapFoodSupply": 2391,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 135158128.0,
+    "lu_peoplePerSqKm": 175.329666
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 2000,
+    "pc_avgPerCapFoodSupply": 2318,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 138250480.0,
+    "lu_peoplePerSqKm": 179.34111
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 2001,
+    "pc_avgPerCapFoodSupply": 2286,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 141282080.0,
+    "lu_peoplePerSqKm": 183.273758
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 2002,
+    "pc_avgPerCapFoodSupply": 2284,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 144271584.0,
+    "lu_peoplePerSqKm": 187.15181
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 2003,
+    "pc_avgPerCapFoodSupply": 2336,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 147251536.0,
+    "lu_peoplePerSqKm": 191.017456
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 2004,
+    "pc_avgPerCapFoodSupply": 2272,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 150267984.0,
+    "lu_peoplePerSqKm": 194.93045
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 2005,
+    "pc_avgPerCapFoodSupply": 2269,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 153356384.0,
+    "lu_peoplePerSqKm": 198.936783
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 2006,
+    "pc_avgPerCapFoodSupply": 2320,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 1.565242E+08,
+    "lu_peoplePerSqKm": 203.046112
+  },
+  {
+    "fullname": "Pakistan",
+    "countryCode": "PK",
+    "year": 2007,
+    "pc_avgPerCapFoodSupply": 2360,
+    "lu_landArea": 770880.0,
+    "lu_totalPop": 159767680.0,
+    "lu_peoplePerSqKm": 207.253632
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 1987,
+    "pc_avgPerCapFoodSupply": 2292,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 5.731279E+07,
+    "lu_peoplePerSqKm": 192.215149
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 1988,
+    "pc_avgPerCapFoodSupply": 2342,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 5.884439E+07,
+    "lu_peoplePerSqKm": 197.351822
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 1989,
+    "pc_avgPerCapFoodSupply": 2340,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 6.039117E+07,
+    "lu_peoplePerSqKm": 202.539383
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 1990,
+    "pc_avgPerCapFoodSupply": 2228,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 6.194734E+07,
+    "lu_peoplePerSqKm": 207.758453
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 1991,
+    "pc_avgPerCapFoodSupply": 2231,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 6.350994E+07,
+    "lu_peoplePerSqKm": 212.9991
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 1992,
+    "pc_avgPerCapFoodSupply": 2280,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 6.50789E+07,
+    "lu_peoplePerSqKm": 218.261063
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 1993,
+    "pc_avgPerCapFoodSupply": 2323,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 6.665495E+07,
+    "lu_peoplePerSqKm": 223.546814
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 1994,
+    "pc_avgPerCapFoodSupply": 2365,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 68240136.0,
+    "lu_peoplePerSqKm": 228.86319
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 1995,
+    "pc_avgPerCapFoodSupply": 2416,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 6.983571E+07,
+    "lu_peoplePerSqKm": 234.214417
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 1996,
+    "pc_avgPerCapFoodSupply": 2429,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 71437384.0,
+    "lu_peoplePerSqKm": 239.58609
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 1997,
+    "pc_avgPerCapFoodSupply": 2400,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 7.304261E+07,
+    "lu_peoplePerSqKm": 244.969681
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 1998,
+    "pc_avgPerCapFoodSupply": 2408,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 7.465622E+07,
+    "lu_peoplePerSqKm": 250.381409
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 1999,
+    "pc_avgPerCapFoodSupply": 2422,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 76285224.0,
+    "lu_peoplePerSqKm": 255.844727
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 2000,
+    "pc_avgPerCapFoodSupply": 2434,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 7.793225E+07,
+    "lu_peoplePerSqKm": 261.3685
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 2001,
+    "pc_avgPerCapFoodSupply": 2426,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 7.960454E+07,
+    "lu_peoplePerSqKm": 266.977051
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 2002,
+    "pc_avgPerCapFoodSupply": 2456,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 81294376.0,
+    "lu_peoplePerSqKm": 272.644379
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 2003,
+    "pc_avgPerCapFoodSupply": 2474,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 82971736.0,
+    "lu_peoplePerSqKm": 278.2699
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 2004,
+    "pc_avgPerCapFoodSupply": 2514,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 8.459625E+07,
+    "lu_peoplePerSqKm": 283.71817
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 2005,
+    "pc_avgPerCapFoodSupply": 2531,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 8.614138E+07,
+    "lu_peoplePerSqKm": 288.9002
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 2006,
+    "pc_avgPerCapFoodSupply": 2552,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 8.75929E+07,
+    "lu_peoplePerSqKm": 293.7683
+  },
+  {
+    "fullname": "Philippines",
+    "countryCode": "PH",
+    "year": 2007,
+    "pc_avgPerCapFoodSupply": 2571,
+    "lu_landArea": 298170.0,
+    "lu_totalPop": 8.89655E+07,
+    "lu_peoplePerSqKm": 298.371735
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 1987,
+    "pc_avgPerCapFoodSupply": 3382,
+    "lu_landArea": 1.638995E+07,
+    "lu_totalPop": 1.45908E+08,
+    "lu_peoplePerSqKm": 8.902285
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 1988,
+    "pc_avgPerCapFoodSupply": 3382,
+    "lu_landArea": 1.638995E+07,
+    "lu_totalPop": 1.46857E+08,
+    "lu_peoplePerSqKm": 8.960185
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 1989,
+    "pc_avgPerCapFoodSupply": 3351,
+    "lu_landArea": 1.638995E+07,
+    "lu_totalPop": 1.47721E+08,
+    "lu_peoplePerSqKm": 9.0129
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 1990,
+    "pc_avgPerCapFoodSupply": 3353,
+    "lu_landArea": 1.638995E+07,
+    "lu_totalPop": 1.48292E+08,
+    "lu_peoplePerSqKm": 9.04774
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 1991,
+    "pc_avgPerCapFoodSupply": 3060,
+    "lu_landArea": 1.638995E+07,
+    "lu_totalPop": 1.48624E+08,
+    "lu_peoplePerSqKm": 9.067996
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 1992,
+    "pc_avgPerCapFoodSupply": 3080,
+    "lu_landArea": 1.638995E+07,
+    "lu_totalPop": 1.48689E+08,
+    "lu_peoplePerSqKm": 9.071961
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 1993,
+    "pc_avgPerCapFoodSupply": 3115,
+    "lu_landArea": 1.638618E+07,
+    "lu_totalPop": 1.4852E+08,
+    "lu_peoplePerSqKm": 9.063735
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 1994,
+    "pc_avgPerCapFoodSupply": 2989,
+    "lu_landArea": 1.638133E+07,
+    "lu_totalPop": 1.48336E+08,
+    "lu_peoplePerSqKm": 9.055186
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 1995,
+    "pc_avgPerCapFoodSupply": 2985,
+    "lu_landArea": 1.637838E+07,
+    "lu_totalPop": 148375728.0,
+    "lu_peoplePerSqKm": 9.059243
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 1996,
+    "pc_avgPerCapFoodSupply": 2933,
+    "lu_landArea": 1.637796E+07,
+    "lu_totalPop": 148160048.0,
+    "lu_peoplePerSqKm": 9.046307
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 1997,
+    "pc_avgPerCapFoodSupply": 2964,
+    "lu_landArea": 1.637865E+07,
+    "lu_totalPop": 147915312.0,
+    "lu_peoplePerSqKm": 9.030983
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 1998,
+    "pc_avgPerCapFoodSupply": 2962,
+    "lu_landArea": 1.63813E+07,
+    "lu_totalPop": 147670688.0,
+    "lu_peoplePerSqKm": 9.014589
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 1999,
+    "pc_avgPerCapFoodSupply": 2972,
+    "lu_landArea": 1.638851E+07,
+    "lu_totalPop": 1.472144E+08,
+    "lu_peoplePerSqKm": 8.982781
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 2000,
+    "pc_avgPerCapFoodSupply": 2980,
+    "lu_landArea": 1.638134E+07,
+    "lu_totalPop": 146596560.0,
+    "lu_peoplePerSqKm": 8.948997
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 2001,
+    "pc_avgPerCapFoodSupply": 3062,
+    "lu_landArea": 1.638044E+07,
+    "lu_totalPop": 145976080.0,
+    "lu_peoplePerSqKm": 8.91161
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 2002,
+    "pc_avgPerCapFoodSupply": 3107,
+    "lu_landArea": 1.638094E+07,
+    "lu_totalPop": 145306048.0,
+    "lu_peoplePerSqKm": 8.870434
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 2003,
+    "pc_avgPerCapFoodSupply": 3125,
+    "lu_landArea": 1.638098E+07,
+    "lu_totalPop": 144648256.0,
+    "lu_peoplePerSqKm": 8.830256
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 2004,
+    "pc_avgPerCapFoodSupply": 3177,
+    "lu_landArea": 1.638123E+07,
+    "lu_totalPop": 144067056.0,
+    "lu_peoplePerSqKm": 8.794642
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 2005,
+    "pc_avgPerCapFoodSupply": 3225,
+    "lu_landArea": 1.638139E+07,
+    "lu_totalPop": 143518528.0,
+    "lu_peoplePerSqKm": 8.761071
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 2006,
+    "pc_avgPerCapFoodSupply": 3242,
+    "lu_landArea": 1.637774E+07,
+    "lu_totalPop": 143049536.0,
+    "lu_peoplePerSqKm": 8.734388
+  },
+  {
+    "fullname": "Russia",
+    "countryCode": "RU",
+    "year": 2007,
+    "pc_avgPerCapFoodSupply": 3301,
+    "lu_landArea": 1.637774E+07,
+    "lu_totalPop": 142805088.0,
+    "lu_peoplePerSqKm": 8.719462
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 1987,
+    "pc_avgPerCapFoodSupply": 3402,
+    "lu_landArea": 9158960.0,
+    "lu_totalPop": 2.42289E+08,
+    "lu_peoplePerSqKm": 26.4537659
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 1988,
+    "pc_avgPerCapFoodSupply": 3395,
+    "lu_landArea": 9158960.0,
+    "lu_totalPop": 2.44499E+08,
+    "lu_peoplePerSqKm": 26.6950626
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 1989,
+    "pc_avgPerCapFoodSupply": 3370,
+    "lu_landArea": 9158960.0,
+    "lu_totalPop": 2.46819E+08,
+    "lu_peoplePerSqKm": 26.9483662
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 1990,
+    "pc_avgPerCapFoodSupply": 3417,
+    "lu_landArea": 9158960.0,
+    "lu_totalPop": 2.49623E+08,
+    "lu_peoplePerSqKm": 27.2545147
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 1991,
+    "pc_avgPerCapFoodSupply": 3442,
+    "lu_landArea": 9158960.0,
+    "lu_totalPop": 2.52981E+08,
+    "lu_peoplePerSqKm": 27.62115
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 1992,
+    "pc_avgPerCapFoodSupply": 3474,
+    "lu_landArea": 9158960.0,
+    "lu_totalPop": 2.56514E+08,
+    "lu_peoplePerSqKm": 28.0068913
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 1993,
+    "pc_avgPerCapFoodSupply": 3515,
+    "lu_landArea": 9158960.0,
+    "lu_totalPop": 2.59919E+08,
+    "lu_peoplePerSqKm": 28.37866
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 1994,
+    "pc_avgPerCapFoodSupply": 3573,
+    "lu_landArea": 9158960.0,
+    "lu_totalPop": 2.63126E+08,
+    "lu_peoplePerSqKm": 28.7288074
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 1995,
+    "pc_avgPerCapFoodSupply": 3488,
+    "lu_landArea": 9158960.0,
+    "lu_totalPop": 2.66278E+08,
+    "lu_peoplePerSqKm": 29.0729523
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 1996,
+    "pc_avgPerCapFoodSupply": 3499,
+    "lu_landArea": 9158960.0,
+    "lu_totalPop": 2.69394E+08,
+    "lu_peoplePerSqKm": 29.4131622
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 1997,
+    "pc_avgPerCapFoodSupply": 3560,
+    "lu_landArea": 9158960.0,
+    "lu_totalPop": 2.72657E+08,
+    "lu_peoplePerSqKm": 29.7694263
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 1998,
+    "pc_avgPerCapFoodSupply": 3580,
+    "lu_landArea": 9158960.0,
+    "lu_totalPop": 2.75854E+08,
+    "lu_peoplePerSqKm": 30.1184864
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 1999,
+    "pc_avgPerCapFoodSupply": 3604,
+    "lu_landArea": 9158960.0,
+    "lu_totalPop": 2.7904E+08,
+    "lu_peoplePerSqKm": 30.466341
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 2000,
+    "pc_avgPerCapFoodSupply": 3680,
+    "lu_landArea": 9161920.0,
+    "lu_totalPop": 2.821624E+08,
+    "lu_peoplePerSqKm": 30.7973
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 2001,
+    "pc_avgPerCapFoodSupply": 3638,
+    "lu_landArea": 9161920.0,
+    "lu_totalPop": 284968960.0,
+    "lu_peoplePerSqKm": 31.1036282
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 2002,
+    "pc_avgPerCapFoodSupply": 3697,
+    "lu_landArea": 9161920.0,
+    "lu_totalPop": 287625184.0,
+    "lu_peoplePerSqKm": 31.393549
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 2003,
+    "pc_avgPerCapFoodSupply": 3698,
+    "lu_landArea": 9161920.0,
+    "lu_totalPop": 290107936.0,
+    "lu_peoplePerSqKm": 31.6645355
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 2004,
+    "pc_avgPerCapFoodSupply": 3727,
+    "lu_landArea": 9161920.0,
+    "lu_totalPop": 2.928053E+08,
+    "lu_peoplePerSqKm": 31.9589462
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 2005,
+    "pc_avgPerCapFoodSupply": 3741,
+    "lu_landArea": 9161920.0,
+    "lu_totalPop": 2.955166E+08,
+    "lu_peoplePerSqKm": 32.25488
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 2006,
+    "pc_avgPerCapFoodSupply": 3715,
+    "lu_landArea": 9161920.0,
+    "lu_totalPop": 2.983799E+08,
+    "lu_peoplePerSqKm": 32.5673981
+  },
+  {
+    "fullname": "United States",
+    "countryCode": "US",
+    "year": 2007,
+    "pc_avgPerCapFoodSupply": 3690,
+    "lu_landArea": 9161920.0,
+    "lu_totalPop": 3.012312E+08,
+    "lu_peoplePerSqKm": 32.87861
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 1987,
+    "pc_avgPerCapFoodSupply": 2292,
+    "lu_landArea": 325490.0,
+    "lu_totalPop": 6.175E+07,
+    "lu_peoplePerSqKm": 189.713974
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 1988,
+    "pc_avgPerCapFoodSupply": 2342,
+    "lu_landArea": 325490.0,
+    "lu_totalPop": 6.3263E+07,
+    "lu_peoplePerSqKm": 194.36235
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 1989,
+    "pc_avgPerCapFoodSupply": 2340,
+    "lu_landArea": 325490.0,
+    "lu_totalPop": 6.4774E+07,
+    "lu_peoplePerSqKm": 199.004578
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 1990,
+    "pc_avgPerCapFoodSupply": 2228,
+    "lu_landArea": 325490.0,
+    "lu_totalPop": 6.60167E+07,
+    "lu_peoplePerSqKm": 202.82251
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 1991,
+    "pc_avgPerCapFoodSupply": 2231,
+    "lu_landArea": 325490.0,
+    "lu_totalPop": 6.72424E+07,
+    "lu_peoplePerSqKm": 206.588226
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 1992,
+    "pc_avgPerCapFoodSupply": 2280,
+    "lu_landArea": 325490.0,
+    "lu_totalPop": 6.84501E+07,
+    "lu_peoplePerSqKm": 210.298615
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 1993,
+    "pc_avgPerCapFoodSupply": 2323,
+    "lu_landArea": 325490.0,
+    "lu_totalPop": 6.96445E+07,
+    "lu_peoplePerSqKm": 213.968155
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 1994,
+    "pc_avgPerCapFoodSupply": 2365,
+    "lu_landArea": 325490.0,
+    "lu_totalPop": 7.08245E+07,
+    "lu_peoplePerSqKm": 217.59346
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 1995,
+    "pc_avgPerCapFoodSupply": 2416,
+    "lu_landArea": 325490.0,
+    "lu_totalPop": 7.19955E+07,
+    "lu_peoplePerSqKm": 221.191147
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 1996,
+    "pc_avgPerCapFoodSupply": 2429,
+    "lu_landArea": 325490.0,
+    "lu_totalPop": 7.31567E+07,
+    "lu_peoplePerSqKm": 224.758682
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 1997,
+    "pc_avgPerCapFoodSupply": 2400,
+    "lu_landArea": 325490.0,
+    "lu_totalPop": 7.43069E+07,
+    "lu_peoplePerSqKm": 228.2924
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 1998,
+    "pc_avgPerCapFoodSupply": 2408,
+    "lu_landArea": 325490.0,
+    "lu_totalPop": 7.54563E+07,
+    "lu_peoplePerSqKm": 231.82373
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 1999,
+    "pc_avgPerCapFoodSupply": 2422,
+    "lu_landArea": 325490.0,
+    "lu_totalPop": 7.65967E+07,
+    "lu_peoplePerSqKm": 235.327362
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 2000,
+    "pc_avgPerCapFoodSupply": 2434,
+    "lu_landArea": 311060.0,
+    "lu_totalPop": 7.76309E+07,
+    "lu_peoplePerSqKm": 249.568878
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 2001,
+    "pc_avgPerCapFoodSupply": 2426,
+    "lu_landArea": 311090.0,
+    "lu_totalPop": 7.86205E+07,
+    "lu_peoplePerSqKm": 252.725891
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 2002,
+    "pc_avgPerCapFoodSupply": 2456,
+    "lu_landArea": 310550.0,
+    "lu_totalPop": 7.95377E+07,
+    "lu_peoplePerSqKm": 256.1188
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 2003,
+    "pc_avgPerCapFoodSupply": 2474,
+    "lu_landArea": 310070.0,
+    "lu_totalPop": 8.04674E+07,
+    "lu_peoplePerSqKm": 259.513672
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 2004,
+    "pc_avgPerCapFoodSupply": 2514,
+    "lu_landArea": 310070.0,
+    "lu_totalPop": 8.14364E+07,
+    "lu_peoplePerSqKm": 262.638763
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 2005,
+    "pc_avgPerCapFoodSupply": 2531,
+    "lu_landArea": 310070.0,
+    "lu_totalPop": 8.23921E+07,
+    "lu_peoplePerSqKm": 265.720947
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 2006,
+    "pc_avgPerCapFoodSupply": 2552,
+    "lu_landArea": 310070.0,
+    "lu_totalPop": 8.33112E+07,
+    "lu_peoplePerSqKm": 268.68515
+  },
+  {
+    "fullname": "Vietnam",
+    "countryCode": "VN",
+    "year": 2007,
+    "pc_avgPerCapFoodSupply": 2571,
+    "lu_landArea": 310070.0,
+    "lu_totalPop": 8.42185E+07,
+    "lu_peoplePerSqKm": 271.611237
+  }
+]
