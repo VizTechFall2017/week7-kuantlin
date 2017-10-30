@@ -141,10 +141,10 @@ function drawPoints(pointData){
             return height-2*marginTop - scaleY(d.clean);  //400 is the beginning domain value of the y axis, set above
         })
         .on('mouseover', function(d){
-            d3.select(this).attr('fill','purple');
+            d3.select(this).attr('fill','orange');
 
             currentID = d3.select(this).attr('id');
-            svg2.selectAll('#' + currentID).attr('fill','purple')
+            svg2.selectAll('#' + currentID).attr('fill','orange')
         })
         .on('mouseout', function(d){
             d3.select(this).attr('fill','darkgreen');
@@ -201,10 +201,10 @@ function drawPoints(pointData){
             return height-2*marginTop - scaleY2(d.per);  //400 is the beginning domain value of the y axis, set above
         })
         .on('mouseover', function(d){
-            d3.select(this).attr('fill','purple');
+            d3.select(this).attr('fill','orange');
 
             currentID = d3.select(this).attr('id');
-            svg.selectAll('#' + currentID).attr('fill','purple')
+            svg.selectAll('#' + currentID).attr('fill','orange')
         })
         .on('mouseout', function(d){
             d3.select(this).attr('fill','darkgreen');
