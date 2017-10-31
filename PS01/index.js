@@ -69,6 +69,8 @@ d3.csv('./Clean Energy.csv', function(dataIn){
         .style('text-anchor','middle')
         .style("font-size",'12px');
 
+    $('#testCircle').tooltip();
+
 
     //bind the data to the d3 selection, but don't draw it yet
     //svg.selectAll('rect')
@@ -81,11 +83,17 @@ d3.csv('./Clean Energy.csv', function(dataIn){
 
 //this function draws the actual data points as circles. It's split from the enter() command because we want to run it many times
 //without adding more circles each time.
-function drawPoints(pointData){
+function drawPoints(pointData) {
 
-    scaleX.domain(pointData.map(function(d){return d.name;}));
-    scaleY.domain([0, d3.max(pointData.map(function(d){return +d.clean}))]);
-    scaleY2.domain([0, d3.max(pointData.map(function(d){return +d.per}))]);
+    scaleX.domain(pointData.map(function (d) {
+        return d.name;
+    }));
+    scaleY.domain([0, d3.max(pointData.map(function (d) {
+        return +d.clean
+    }))]);
+    scaleY2.domain([0, d3.max(pointData.map(function (d) {
+        return +d.per
+    }))]);
 
     d3.selectAll('.xaxis')
         .call(d3.axisBottom(scaleX));
@@ -98,7 +106,9 @@ function drawPoints(pointData){
 
     //select all bars in SVG1, and bind them to the new data
     var rects = svg.selectAll('.bars')
-        .data(pointData, function(d){return d.name;});
+        .data(pointData, function (d) {
+            return d.name;
+        });
 
     //look to see if there are any old bars that don't have keys in the new data list, and remove them.
     rects.exit()
@@ -108,49 +118,59 @@ function drawPoints(pointData){
     rects
         .transition()
         .duration(200)
-        .attr('x',function(d){
+        .attr('x', function (d) {
             return scaleX(d.name);
         })
-        .attr('y',function(d){
+        .attr('y', function (d) {
             return scaleY(d.clean);
         })
-        .attr('width',function(d){
+        .attr('width', function (d) {
             return scaleX.bandwidth();
         })
-        .attr('height',function(d){
-            return height-2*marginTop - scaleY(d.clean);  //400 is the beginning domain value of the y axis, set above
+        .attr('height', function (d) {
+            return height - 2 * marginTop - scaleY(d.clean);//400 is the beginning domain value of the y axis, set above
+        })
+        .attr('data-toggle', 'tooltip')
+        .attr('title', function (d) {
+            return d.clean;
         });
 
     //add the enter() function to make bars for any new countries in the list, and set their properties
     rects
         .enter()
         .append('rect')
-        .attr('class','bars')
-        .attr('id', function(d){return d.name;})
+        .attr('class', 'bars')
+        .attr('id', function (d) {
+            return d.name;
+        })
         .attr('fill', "darkgreen")
-        .attr('x',function(d){
+        .attr('x', function (d) {
             return scaleX(d.name);
         })
-        .attr('y',function(d){
+        .attr('y', function (d) {
             return scaleY(d.clean);
         })
-        .attr('width',function(d){
+        .attr('width', function (d) {
             return scaleX.bandwidth();
         })
-        .attr('height',function(d){
-            return height-2*marginTop - scaleY(d.clean);  //400 is the beginning domain value of the y axis, set above
+        .attr('height', function (d) {
+            return height - 2 * marginTop - scaleY(d.clean);  //400 is the beginning domain value of the y axis, set above
         })
-        .on('mouseover', function(d){
-            d3.select(this).attr('fill','orange');
+        .attr('data-toggle', 'tooltip')
+        .attr('title', function (d) {
+            return d.clean;
+        })
+        .on('mouseover', function (d) {
+            d3.select(this).attr('fill', 'orange');
 
             currentID = d3.select(this).attr('id');
-            svg2.selectAll('#' + currentID).attr('fill','orange')
+            svg2.selectAll('#' + currentID).attr('fill', 'orange')
         })
-        .on('mouseout', function(d){
-            d3.select(this).attr('fill','darkgreen');
+        .on('mouseout', function (d) {
+            d3.select(this).attr('fill', 'darkgreen');
 
             currentID = d3.select(this).attr('id');
-            svg2.selectAll('#' + currentID).attr('fill','darkgreen')
+            svg2.selectAll('#' + currentID).attr('fill', 'darkgreen')
         });
 
 
@@ -179,6 +199,10 @@ function drawPoints(pointData){
         })
         .attr('height',function(d){
             return height-2*marginTop - scaleY2(d.per);  //400 is the beginning domain value of the y axis, set above
+        })
+        .attr('data-toggle', 'tooltip')
+        .attr('title', function(d) {
+            return d.per;
         });
 
     //add the enter() function to make bars for any new countries in the list, and set their properties
@@ -200,6 +224,10 @@ function drawPoints(pointData){
         .attr('height',function(d){
             return height-2*marginTop - scaleY2(d.per);  //400 is the beginning domain value of the y axis, set above
         })
+        .attr('data-toggle', 'tooltip')
+        .attr('title', function(d) {
+            return d.per;
+        })
         .on('mouseover', function(d){
             d3.select(this).attr('fill','orange');
 
@@ -212,9 +240,7 @@ function drawPoints(pointData){
             currentID = d3.select(this).attr('id');
             svg.selectAll('#' + currentID).attr('fill','darkgreen')
         });
-
-
-
+    $('[data-toggle="tooltip"]').tooltip();
 }
 
 
